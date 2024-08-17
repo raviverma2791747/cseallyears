@@ -1,5 +1,8 @@
 # cseallyears
 
+## Overview
+The database will store all the data related to the CSE department in an organized manner such as student details of the cse branch,course details of the cse branch and faculty details of cse branch. The objective of this database is to provide an efficient and convenient way to store data and retrieve it and also to reduce redundancy. The database is made in accordance with the organizational structure of the college.
+
 ## Relational Schema of the database
 1.  batch (year, semester, email)
 2. class_representative(semester, incharge_student)
