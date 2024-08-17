@@ -14,6 +14,14 @@
 ### ER Diagram
 ![ER Diagram](https://github.com/raviverma2791747/cseallyears/blob/main/demo/er.png)
 
+## Deployment
+1. Install XAMPP
+2. Clone this repo on your pc
+3. Copy the cloned folder into htdocs
+4. Create a database in MySQL named "cse_department", You can also use another name to edit the config.php file.
+5. Now import this database schema into your MySQL database [Schema](https://github.com/raviverma2791747/cseallyears/blob/main/cse_department.sql)
+7. Now visit this URL [http://localhost/cseallyears](http://localhost/cseallyears)
+
 ## Demo
 
 ### Login Page
