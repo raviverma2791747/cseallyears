@@ -11,6 +11,9 @@
 8.  subject(semester ,course_code)
 9. teaches(course_code , faculty_id)
 
+### ER Diagram
+![ER Diagram](https://github.com/raviverma2791747/cseallyears/blob/main/demo/er.png)
+
 ## Demo
 
 ### Login Page
